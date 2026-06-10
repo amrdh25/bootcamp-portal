@@ -1,2 +1,2 @@
 # bootcamp-portal
-Training repository
+Training repository added for testing purpose
