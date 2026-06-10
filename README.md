@@ -1,3 +1,3 @@
 # bootcamp-portal
 Training repository added for testing purpose
-Testing the merge conflict added by amrdh25
+Testing the merge conflict added by amrdh25 for testing
